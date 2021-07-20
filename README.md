@@ -3,7 +3,7 @@
 #### By **Ted Askoye Samuel**
 
 ## Description
-* Have you ever wondered when the best time of year to book a hotel room is? Or the optimal length of stay in order to get the best daily rate? What if you wanted to predict whether or not a hotel was likely to receive a disproportionately high number of special requests? Well, certain hotels wants to explore ways of improving on service delivery in an attempt to increase revenue collection. The task at hand is to find out what are the key metrics that will help improve service delivery in an attempt to increase revenue collection for the hotels and advice them. The aim of the project is to create a prediction repeat customer model against results already known, using it as a benchmark for forecasting.
+Have you ever wondered when the best time of year to book a hotel room is? Or the optimal length of stay in order to get the best daily rate? What if you wanted to predict whether or not a hotel was likely to receive a disproportionately high number of special requests? Well, certain hotels wants to explore ways of improving on service delivery in an attempt to increase revenue collection. The task at hand is to find out what are the key metrics that will help improve service delivery in an attempt to increase revenue collection for the hotels and advice them. The aim of the project is to create a prediction repeat customer model against results already known, using it as a benchmark for forecasting.
 
 ## Experimental Design
 
