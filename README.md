@@ -7,7 +7,6 @@ Have you ever wondered when the best time of year to book a hotel room is? Or th
 
 ## Experimental Design
 
-
 Here is the breakdown of the process to implement this solution:
 * Business Understanding: This sheds light to the context of the business question that we are trying to answer hence keep the focus during the data analysis so that we meet the intended objective.
 * Reading the data: Reading our data with and aim to understand the variables and observations.
